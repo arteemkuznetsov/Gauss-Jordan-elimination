@@ -1,0 +1,9 @@
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\bin\Debug\Gaussian elimination.exe.config
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\bin\Debug\Gaussian elimination.exe
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\bin\Debug\Gaussian elimination.pdb
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\obj\Debug\Gaussian elimination.csprojAssemblyReference.cache
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\obj\Debug\Gaussian_elimination.Properties.Resources.resources
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\obj\Debug\Gaussian elimination.csproj.GenerateResource.cache
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\obj\Debug\Gaussian elimination.exe
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\obj\Debug\Gaussian elimination.pdb
+C:\Users\SecondUser\source\repos\Gaussian elimination\Gaussian elimination\obj\Debug\GaussJordan.MainForm.resources
